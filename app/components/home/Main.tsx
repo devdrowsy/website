@@ -9,18 +9,17 @@ export function Main() {
           Hi, I'm <strong>Drousey</strong>! I'm also known as{' '}
           <strong>@devdrowsy</strong> due to the fact that I'm an insomniac 😅.
           <br />
-          I'm currently a senior in high school located in California and I'm
+          I'm based in California where I'm currently a sophomore in uni and I'm
           passionate about web development.
         </p>
         <p>
-          I hope to work in the industry as a software engineer and so I am
-          trying to rack up some experience via personal projects, open source
-          contributions, and hackathons (the ones that allow me to come in
-          haha).
+          I plan to work in the industry as a software engineer and I have been
+          racking up some experience via personal projects and freelancing.
         </p>
         <p>
-          You can see some of the stuff I'm working on in the{' '}
-          <Link to="/projects">projects page</Link>.
+          Most of the stuff I've worked on is closed source/private, but I plan
+          to update my <Link to="/projects">projects page</Link> soon with
+          public facing projects.
         </p>
       </section>
     </main>
