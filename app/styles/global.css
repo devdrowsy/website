@@ -40,7 +40,10 @@ footer {
 }
 
 @media (max-width: 1000px) {
-  header,
+  header {
+    padding: 0 1rem;
+  }
+
   main,
   footer {
     padding: 0rem 4rem;
