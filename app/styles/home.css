@@ -1,0 +1,32 @@
+main {
+  flex: 1;
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+  justify-content: center;
+}
+
+main img {
+  width: 400px;
+  height: auto;
+  border-radius: 1rem;
+}
+
+main section {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  font-size: 1rem;
+  gap: 1rem;
+}
+
+main section p {
+  max-width: 600px;
+}
+
+@media (max-width: 1000px) {
+  main {
+    margin-top: 2rem;
+    flex-direction: column;
+  }
+}
